@@ -27,7 +27,7 @@
   
   <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**Shose Store**](https://md7o.github.io/store/) <br />Website built with Vue Js.
 
-<img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**Shose Store**](https://md7o.github.io/Astorm/) <br />Website built with Vue Js.
+<img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**Astorm**](https://md7o.github.io/Astorm/) <br />Website built with Vue Js.
   
   
   ### Highlights from my blogs & tutorials
