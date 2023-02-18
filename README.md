@@ -5,8 +5,8 @@
   I'm a **front-end developer**, and **designer**, and a Ui, Ux developer **Flutter & React** <img src="https://user-images.githubusercontent.com/41123719/164335488-1eff3a46-e648-43a3-9e3f-7bed66090ae4.gif" height="18" />.
   
   <p>
-    <img src="https://avatars.githubusercontent.com/u/67750077?v=4&s=400" width="100" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100" />
+    <img src="https://avatars.githubusercontent.com/u/67750077?v=4&s=400" width="75" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="80" />
   <p />
   
   
