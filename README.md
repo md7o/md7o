@@ -21,7 +21,7 @@
 
   ### Projects
   
-  <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**Book Library**](https://github.com/md7o/BookLibrary/tree/main) <br />Android app built with Flutter.
+  <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**LitLoom**](https://github.com/md7o/BookLibrary/tree/main) <br />Android app built with Flutter.
   
   <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**World Cars**](https://github.com/md7o/World-Cars) <br />Android app built with Flutter.
 
