@@ -20,12 +20,14 @@
 <div align="start">
 
   ### Projects
+
+  <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**LitLoom**](https://github.com/md7o/ClassCore) <br />Android app built with Flutter.
   
   <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**LitLoom**](https://github.com/md7o/BookLibrary/tree/main) <br />Android app built with Flutter.
   
   <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**World Cars**](https://github.com/md7o/World-Cars) <br />Android app built with Flutter.
 
-<img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**Lucky Roller**](https://github.com/md7o/Lucky-Roller) <br />Android app built with Flutter.
+  <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**Lucky Roller**](https://github.com/md7o/Lucky-Roller) <br />Android app built with Flutter.
   
   <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**Shose Store**](https://md7o.github.io/store/) <br />Website built with Vue Js.
 
