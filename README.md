@@ -23,6 +23,10 @@
 
   ### Projects
 
+  <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**mocodes**](https://github.com/md7o/eyad-film) <br />Website built using NextJs and NestJs and postgreSQL.
+
+  <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**mocodes**](https://github.com/md7o/article-frontend) <br />Website built using NextJs.
+
   <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**Class Core**](https://github.com/md7o/ClassCore) <br />Website built with TypeScript and NodeJs.
   
   <img src="https://i.pinimg.com/originals/cb/4d/f0/cb4df0937c95f17760b69d74395b9bd2.gif" height="20" /> [**LitLoom**](https://github.com/md7o/BookLibrary/tree/main) <br />Android app built with Flutter.
