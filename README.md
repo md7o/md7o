@@ -2,11 +2,13 @@
   <img src="https://thumbs.gfycat.com/DemandingJollyEnglishsetter-max-1mb.gif" width="120" /> 
 
   ### Hi there 👋, I'm Mohammed Alheraki 🧑🏻‍💻.
-  I'm a **Software developer** **Flutter & React** <img src="https://user-images.githubusercontent.com/41123719/164335488-1eff3a46-e648-43a3-9e3f-7bed66090ae4.gif" height="18" />.
+  I'm a **Software developer** **Flutter & React & Next** <img src="https://user-images.githubusercontent.com/41123719/164335488-1eff3a46-e648-43a3-9e3f-7bed66090ae4.gif" height="18" />.
   
   <p>
     <img src="https://avatars.githubusercontent.com/u/67750077?v=4&s=400" width="75" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="80" />
+<img width="75" alt="nextjs" src="https://github.com/user-attachments/assets/db07af1a-1c86-4794-805d-4e8985d0151e" />
+
   <p />
   
   
